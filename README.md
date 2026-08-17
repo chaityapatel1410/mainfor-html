@@ -1,2 +1,2 @@
 # mainfor-html
-best for starting html all the codes with comments fro what it woks
+Best for starting HTML .All the codes with comments for what it works
